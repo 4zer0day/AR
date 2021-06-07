@@ -26,4 +26,4 @@ Dont Click any mesh or armature and follow the picture below
 
 ![](images/BlenderSetting.JPG)
 
-![](images/ShadingSetting2.JPG)
+![](images/BlenderSetting2.JPG)
