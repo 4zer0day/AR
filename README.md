@@ -1,5 +1,4 @@
-# AR Treasure
-
+# AR Converter
 1) Search your MMD model at bowlroll.net or any place. In my case I use this model "https://bowlroll.net/file/240466"
 2) To download you gotta learn Japanese for the password key :D
 3) Open Blender and import the model like below
