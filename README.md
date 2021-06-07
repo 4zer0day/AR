@@ -24,6 +24,6 @@ For motion use Adobe M
 10) Export to FBX like below [With Motion]
 Dont Click any mesh or armature and follow the picture below
 
-![](images/Blender Setting.JPG)
+![](images/BlenderSetting.JPG)
 
-![](images/Shading Setting 2.JPG)
+![](images/ShadingSetting2.JPG)
