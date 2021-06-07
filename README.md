@@ -15,9 +15,9 @@
 8) Export to FBX like below [Without Motion]
 Click on Mesh and Armature and follow the picture below
 
-![](images/Mixamo.JPG)
+![](images/mixamo.JPG)
 
-![](images/Mixamo2.JPG)
+![](images/mixamo2.JPG)
 
 For motion use Adobe M
 
