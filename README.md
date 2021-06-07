@@ -27,6 +27,6 @@ Dont Click any mesh or armature and follow the picture below
 
 ![](images/BlenderSetting2.JPG)
 
-11) That's how to create Megumi 
+11) That's how to create Megumi pmx to fbx
 
 ![](images/icon_1.png)
