@@ -13,10 +13,17 @@
 
 7) Make sure the image is correct like the MMD version
 8) Export to FBX like below [Without Motion]
+Click on Mesh and Armature and follow the picture below
+
+![](images/Mixamo.JPG)
+
+![](images/Mixamo2.JPG)
+
+For motion use Adobe M
 
 10) Export to FBX like below [With Motion]
 Dont Click any mesh or armature and follow the picture below
 
-![](images/Shading.JPG)
+![](images/Blender Setting.JPG)
 
-![](images/Shading.JPG)
+![](images/Shading Setting 2.JPG)
