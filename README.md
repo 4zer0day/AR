@@ -36,7 +36,7 @@ Another Way (Adding Animation to FBX)
 2) Get animation but without skin
 3) Import FBX but make sure it was like this
 
-![](images/icon_1.png)
+![](images/key.png)
 
 4) Import for Both base and animation
 5) Copy animation from the animated one and Paste it on the base
