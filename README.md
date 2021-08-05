@@ -30,3 +30,13 @@ Dont Click any mesh or armature and follow the picture below
 11) That's how to create Megumi pmx to fbx
 
 ![](images/icon_1.png)
+
+Another Way (Adding Animation to FBX)
+1) Get your base fbx
+2) Get animation but without skin
+3) Import FBX but make sure it was like this
+
+![](images/icon_1.png)
+
+4) Import for Both base and animation
+5) Copy animation from the animated one and Paste it on the base
