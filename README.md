@@ -40,3 +40,6 @@ Another Way (Adding Animation to FBX)
 
 4) Import for Both base and animation
 5) Copy animation from the animated one and Paste it on the base
+6) Mikey said Bruh
+
+![](images/Mikey.png)
