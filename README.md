@@ -42,4 +42,4 @@ Another Way (Adding Animation to FBX)
 5) Copy animation from the animated one and Paste it on the base
 6) Mikey said Bruh
 
-![](images/Mikey.JPG)
+![](images/mikey.JPG)
